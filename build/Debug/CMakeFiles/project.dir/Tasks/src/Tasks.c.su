@@ -1,0 +1,2 @@
+D:/RM/Code/Project/homework_1/Tasks/src/Tasks.c:16:6:Tasks_Init	8	static
+D:/RM/Code/Project/homework_1/Tasks/src/Tasks.c:25:6:HAL_TIM_PeriodElapsedCallback	16	static
